@@ -1,0 +1,118 @@
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# ==============================
+# Virtual Environment
+# ==============================
+
+.venv/
+venv/
+env/
+ENV/
+
+
+# ==============================
+# Personal / Facial Recognition Data
+# ==============================
+
+student_images/
+dataset/
+data/
+faces/
+face_data/
+
+
+# ==============================
+# Attendance / Generated Records
+# ==============================
+
+attendance.xlsx
+attendance.csv
+attendance/
+*.csv
+*.xlsx
+
+
+# ==============================
+# Trained Models / Generated Data
+# ==============================
+
+trainer/
+models/
+*.pkl
+*.pickle
+*.joblib
+*.yml
+*.yaml
+
+
+# ==============================
+# Environment Variables / Secrets
+# ==============================
+
+.env
+.env.*
+*.env
+
+
+# ==============================
+# VS Code
+# ==============================
+
+.vscode/
+
+
+# ==============================
+# PyCharm / IntelliJ
+# ==============================
+
+.idea/
+*.iml
+
+
+# ==============================
+# Jupyter Notebook
+# ==============================
+
+.ipynb_checkpoints/
+
+
+# ==============================
+# Windows
+# ==============================
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# ==============================
+# macOS
+# ==============================
+
+.DS_Store
+
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+
+
+# ==============================
+# Temporary Files
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
